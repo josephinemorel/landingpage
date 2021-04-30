@@ -1,0 +1,20 @@
+.btn-small{
+	background-color: #6ED6B4;
+	color : black;
+	border-radius: 4px;
+	padding: 10px 10px;
+	font-weight: 600;
+	font-size: 12px;
+	font-family: "Josefin Sans", sans-serif;
+}
+
+.btn-small:hover{
+	background-color: grey;
+	color : white;
+	border-radius: 4px;
+	padding: 10px 10px;
+	font-weight: 600;
+	font-family: "Josefin Sans", sans-serif;
+	font-size: 12px
+
+}
